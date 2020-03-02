@@ -38,7 +38,7 @@ var colorTextCard2 = function() {
 
 button2Edit.addEventListener("click", colorTextCard2);
 
-//Fonctionnalité 4 - Edit green
+//Fonctionnalité 5 - CSS
 var cssLink = document.getElementsByTagName("link")[0];
 var header = document.getElementsByTagName("header")[0];
 let status = true;
